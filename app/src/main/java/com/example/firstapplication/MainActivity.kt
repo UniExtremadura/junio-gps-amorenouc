@@ -62,4 +62,8 @@ class MainActivity : AppCompatActivity() {
     /*
    Simulación de la implementación de la Historia de Usuario 01 - Rol: Scrum Master
     */
+
+    /*
+    Simulación de la integración de la Historia de Usuario 01 - Rol: Scrum Master
+     */
 }
