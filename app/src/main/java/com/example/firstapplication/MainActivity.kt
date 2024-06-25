@@ -54,4 +54,8 @@ class MainActivity : AppCompatActivity() {
         val navController = findNavController(R.id.nav_host_fragment_content_main)
         return navController.navigateUp(appBarConfiguration) || super.onSupportNavigateUp()
     }
+
+    /*
+    Simulación de la implementación de la Historia de Usuario 01 - Rol: Product Owner
+     */
 }
